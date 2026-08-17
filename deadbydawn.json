@@ -1,6 +1,6 @@
 {
 	"Name": "Dead by Dawn Scrim Nights",
-	"Version": 1786913011,
+	"Version": 1786999739,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -3278,7 +3278,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"8"
+				"54"
 			],
 			"BalanceTiers": [
 				0,
