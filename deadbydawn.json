@@ -1,6 +1,6 @@
 {
 	"Name": "Dead by Dawn Scrim Nights",
-	"Version": 1786999739,
+	"Version": 1787185352,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -3291,8 +3291,15 @@
 				3
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
-			"KillerComboPerkBans": [],
+			"KillerIndvPerkBans": [
+				"132"
+			],
+			"KillerComboPerkBans": [
+				[
+					"181",
+					"184"
+				]
+			],
 			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -3306,7 +3313,8 @@
 				853,
 				854,
 				855,
-				858
+				858,
+				852
 			],
 			"ItemWhitelist": [
 				0,
