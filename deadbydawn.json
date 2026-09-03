@@ -1,6 +1,6 @@
 {
 	"Name": "Dead by Dawn Scrim Nights",
-	"Version": 1787185352,
+	"Version": 1788453725,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -21,6 +21,7 @@
 				"18",
 				"247",
 				"19",
+				"318",
 				"20",
 				"73",
 				"22",
@@ -98,6 +99,7 @@
 				"136",
 				"245",
 				"138",
+				"315",
 				"147",
 				"149",
 				"150",
@@ -121,6 +123,7 @@
 				"180",
 				"310",
 				"183",
+				"316",
 				"264",
 				"265",
 				"188",
@@ -179,6 +182,10 @@
 				[
 					"159",
 					"226"
+				],
+				[
+					"317",
+					"143"
 				]
 			]
 		},
@@ -242,6 +249,7 @@
 				"261",
 				"50",
 				"51",
+				"319",
 				"54",
 				"61",
 				"65",
@@ -261,6 +269,7 @@
 				"273",
 				"30",
 				"32",
+				"319",
 				"89",
 				"95"
 			],
@@ -273,10 +282,12 @@
 			"SurvivorIndvPerkBans": [
 				"9",
 				"10",
+				"319",
 				"56",
 				"58",
 				"85",
 				"296",
+				"320",
 				"107",
 				"112"
 			],
@@ -3309,12 +3320,11 @@
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [
 				845,
-				850,
 				853,
 				854,
 				855,
-				858,
-				852
+				852,
+				846
 			],
 			"ItemWhitelist": [
 				0,
@@ -3357,6 +3367,57 @@
 				5,
 				16
 			]
+		},
+		{
+			"Name": "The Judgment",
+			"KillerNotes": "",
+			"IsDisabled": false,
+			"Map": [
+				0
+			],
+			"BalanceTiers": [
+				0
+			],
+			"SurvivorBalanceTiers": [
+				0
+			],
+			"AntiFacecampPermitted": false,
+			"KillerIndvPerkBans": [],
+			"KillerComboPerkBans": [],
+			"SurvivorIndvPerkBans": [],
+			"SurvivorComboPerkBans": [],
+			"SurvivorWhitelistedPerks": [],
+			"SurvivorWhitelistedComboPerks": [],
+			"KillerWhitelistedPerks": [],
+			"KillerWhitelistedComboPerks": [],
+			"AddonTiersBanned": [],
+			"IndividualAddonBans": [],
+			"ItemWhitelist": [],
+			"AddonWhitelist": {
+				"Firecracker": {
+					"Addons": []
+				},
+				"Flashlight": {
+					"Addons": []
+				},
+				"Med-Kit": {
+					"Addons": []
+				},
+				"Toolbox": {
+					"Addons": []
+				},
+				"Key": {
+					"Addons": []
+				},
+				"Map": {
+					"Addons": []
+				},
+				"Fog Vial": {
+					"Addons": []
+				}
+			},
+			"SurvivorOfferings": [],
+			"KillerOfferings": []
 		}
 	]
 }
